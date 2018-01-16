@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ex-consultant and Fulbrighter who is very eager to learn
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[Check Me Out](www.christinecliu.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[liu.christinee@gmail.com](mailto:liu.christinee@gmail.com)
